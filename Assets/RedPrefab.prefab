@@ -121,3 +121,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rend: {fileID: 8694084711321331050}
+  redObj: {fileID: 5114915815768179248}
+  blueObj: {fileID: 1567125632872144302, guid: 0e7e6e039c44447ae8f062298d67d7ce, type: 3}
